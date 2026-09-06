@@ -1,0 +1,29 @@
+[
+  {
+    "event_id": "ue_2001",
+    "transaction_id": "tx_2001",
+    "app_id": "app_word",
+    "user_id": "user_B002",
+    "timestamp": "2026-08-05T22:00:00",
+    "event_type": "content_consumed",
+    "detail": "Used all 50 hints within the first session"
+  },
+  {
+    "event_id": "ue_2002",
+    "transaction_id": "tx_2002",
+    "app_id": "app_word",
+    "user_id": "user_B002",
+    "timestamp": "2026-08-12T20:00:00",
+    "event_type": "feature_unlocked",
+    "detail": "Completed all 20 expert levels in the pack"
+  },
+  {
+    "event_id": "ue_1001",
+    "transaction_id": "tx_1001",
+    "app_id": "app_habit",
+    "user_id": "user_A001",
+    "timestamp": "2026-08-01T10:05:00",
+    "event_type": "feature_unlocked",
+    "detail": "Opened pro dashboard once after purchase"
+  }
+]

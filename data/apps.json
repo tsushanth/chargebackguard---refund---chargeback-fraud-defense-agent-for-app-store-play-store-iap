@@ -1,0 +1,20 @@
+[
+  {
+    "app_id": "app_habit",
+    "name": "FocusFlow",
+    "platform": "ios",
+    "bundle_id": "com.example.focusflow"
+  },
+  {
+    "app_id": "app_photo",
+    "name": "SnapEdit Pro",
+    "platform": "ios",
+    "bundle_id": "com.example.snapeditpro"
+  },
+  {
+    "app_id": "app_word",
+    "name": "WordDash",
+    "platform": "android",
+    "bundle_id": "com.example.worddash"
+  }
+]

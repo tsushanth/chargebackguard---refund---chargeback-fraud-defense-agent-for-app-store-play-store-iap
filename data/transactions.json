@@ -1,0 +1,90 @@
+[
+  {
+    "transaction_id": "tx_1001",
+    "app_id": "app_habit",
+    "user_id": "user_A001",
+    "product_id": "pro_lifetime_unlock",
+    "purchase_date": "2026-08-01T10:00:00",
+    "price_usd": 29.99,
+    "platform": "ios",
+    "original_transaction_id": "tx_1001",
+    "is_family_shared": false
+  },
+  {
+    "transaction_id": "tx_1002",
+    "app_id": "app_photo",
+    "user_id": "user_A001",
+    "product_id": "filter_pack_bundle",
+    "purchase_date": "2026-08-10T09:00:00",
+    "price_usd": 9.99,
+    "platform": "ios",
+    "original_transaction_id": "tx_1002",
+    "is_family_shared": false
+  },
+  {
+    "transaction_id": "tx_1003",
+    "app_id": "app_habit",
+    "user_id": "user_A001",
+    "product_id": "streak_freeze_pack",
+    "purchase_date": "2026-08-20T09:00:00",
+    "price_usd": 4.99,
+    "platform": "ios",
+    "original_transaction_id": "tx_1003",
+    "is_family_shared": false
+  },
+  {
+    "transaction_id": "tx_2001",
+    "app_id": "app_word",
+    "user_id": "user_B002",
+    "product_id": "hint_pack_50",
+    "purchase_date": "2026-08-05T14:00:00",
+    "price_usd": 2.99,
+    "platform": "android",
+    "original_transaction_id": "tx_2001",
+    "is_family_shared": false
+  },
+  {
+    "transaction_id": "tx_2002",
+    "app_id": "app_word",
+    "user_id": "user_B002",
+    "product_id": "level_pack_expert",
+    "purchase_date": "2026-08-12T14:00:00",
+    "price_usd": 6.99,
+    "platform": "android",
+    "original_transaction_id": "tx_2002",
+    "is_family_shared": false
+  },
+  {
+    "transaction_id": "tx_3001",
+    "app_id": "app_photo",
+    "user_id": "user_C003",
+    "product_id": "annual_subscription",
+    "purchase_date": "2026-07-15T12:00:00",
+    "price_usd": 39.99,
+    "platform": "ios",
+    "original_transaction_id": "otx_3001",
+    "is_family_shared": true
+  },
+  {
+    "transaction_id": "tx_3002",
+    "app_id": "app_photo",
+    "user_id": "user_C003",
+    "product_id": "annual_subscription",
+    "purchase_date": "2026-08-15T12:00:00",
+    "price_usd": 39.99,
+    "platform": "ios",
+    "original_transaction_id": "otx_3001",
+    "is_family_shared": true
+  },
+  {
+    "transaction_id": "tx_4001",
+    "app_id": "app_habit",
+    "user_id": "user_D006",
+    "product_id": "pro_lifetime_unlock",
+    "purchase_date": "2026-08-25T08:00:00",
+    "price_usd": 29.99,
+    "platform": "ios",
+    "original_transaction_id": "tx_4001",
+    "is_family_shared": false
+  }
+]

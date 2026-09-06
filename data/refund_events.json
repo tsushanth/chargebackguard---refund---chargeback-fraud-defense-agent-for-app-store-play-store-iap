@@ -1,0 +1,82 @@
+[
+  {
+    "refund_id": "rf_1001",
+    "transaction_id": "tx_1001",
+    "app_id": "app_habit",
+    "user_id": "user_A001",
+    "refund_date": "2026-08-02T10:00:00",
+    "reason": "cancellation_reason.UNWANTED",
+    "platform": "ios",
+    "requested_by_user_id": null
+  },
+  {
+    "refund_id": "rf_1002",
+    "transaction_id": "tx_1002",
+    "app_id": "app_photo",
+    "user_id": "user_A001",
+    "refund_date": "2026-08-11T09:30:00",
+    "reason": "consumption_request",
+    "platform": "ios",
+    "requested_by_user_id": null
+  },
+  {
+    "refund_id": "rf_1003",
+    "transaction_id": "tx_1003",
+    "app_id": "app_habit",
+    "user_id": "user_A001",
+    "refund_date": "2026-08-21T09:15:00",
+    "reason": "cancellation_reason.UNWANTED",
+    "platform": "ios",
+    "requested_by_user_id": null
+  },
+  {
+    "refund_id": "rf_2001",
+    "transaction_id": "tx_2001",
+    "app_id": "app_word",
+    "user_id": "user_B002",
+    "refund_date": "2026-08-06T02:00:00",
+    "reason": "consumption_request",
+    "platform": "android",
+    "requested_by_user_id": null
+  },
+  {
+    "refund_id": "rf_2002",
+    "transaction_id": "tx_2002",
+    "app_id": "app_word",
+    "user_id": "user_B002",
+    "refund_date": "2026-08-13T01:00:00",
+    "reason": "consumption_request",
+    "platform": "android",
+    "requested_by_user_id": null
+  },
+  {
+    "refund_id": "rf_3001",
+    "transaction_id": "tx_3001",
+    "app_id": "app_photo",
+    "user_id": "user_C003",
+    "refund_date": "2026-07-20T10:00:00",
+    "reason": "consumption_request",
+    "platform": "ios",
+    "requested_by_user_id": "user_C004"
+  },
+  {
+    "refund_id": "rf_3002",
+    "transaction_id": "tx_3002",
+    "app_id": "app_photo",
+    "user_id": "user_C003",
+    "refund_date": "2026-08-18T11:00:00",
+    "reason": "consumption_request",
+    "platform": "ios",
+    "requested_by_user_id": "user_C005"
+  },
+  {
+    "refund_id": "rf_4001",
+    "transaction_id": "tx_4001",
+    "app_id": "app_habit",
+    "user_id": "user_D006",
+    "refund_date": "2026-08-26T08:00:00",
+    "reason": "cancellation_reason.UNWANTED",
+    "platform": "ios",
+    "requested_by_user_id": null
+  }
+]
